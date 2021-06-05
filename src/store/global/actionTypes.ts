@@ -1,0 +1,21 @@
+export const CHECK_AUTH= "CHECK_AUTH";
+export const LOGIN= "LOGIN";
+
+export const LOGIN_START = "LOGIN_START";
+
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+
+export const FETCH_FLIGHT = 'FETCH_FLIGHT'
+export const FETCH_FLIGHT_START = 'FETCH_FLIGHT_START'
+export const FETCH_FLIGHT_SUCCESS = 'FETCH_FLIGHT_SUCCESS'
+export const FETCH_FLIGHT_FAIL = 'FETCH_FLIGHT_FAIL'
+
+
+
+export const BOOK_FLIGHT = 'BOOK_FLIGHT'
+export const BOOK_FLIGHT_START = 'BOOK_FLIGHT_START'
+export const BOOK_FLIGHT_SUCCESS = 'BOOK_FLIGHT_SUCCESS'
+export const BOOK_FLIGHT_FAIL = 'BOOK_FLIGHT_FAIL'
+
+export const  BOOK_RESET = 'BOOK_RESET'
